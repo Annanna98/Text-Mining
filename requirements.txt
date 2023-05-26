@@ -1,0 +1,15 @@
+streamlit
+warnings
+pandas
+matplotlib.pyplot
+sklearn.feature_extraction.text
+sklearn.model_selection 
+sklearn.metrics
+sklearn.ensemble
+sklearn.naive_bayes
+sklearn.metrics
+sklearn.linear_model
+sklearn.pipeline
+sklearn.model_selection
+joblib
+numpy
